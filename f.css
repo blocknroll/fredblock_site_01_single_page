@@ -1,0 +1,54 @@
+body  {
+  margin: 0 0 0 0;
+}
+
+#hello  {
+  background-color: red;
+  color: white;
+  font-family: "Codystar", Arial, sans-serif;
+  font-size: 5em;
+  font-weight: 500;
+  line-height: 1.5em;
+  padding: 70px 0 70px 0;
+  text-align: center;
+}
+
+#codename  {
+  background-color: black;
+  color: gray;
+  font-family: "Source Code Pro", Arial, sans-serif;
+  font-size: 3em;
+  font-weight: 500;
+  line-height: 1.5em;
+  padding: 70px 0 70px 0;
+  text-align: center;
+}
+
+#challenger_point {
+  color: gray;
+  font-family: "Cabin Sketch", Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  line-height: 1.5em;
+  padding: 0px 0 70px 0;
+  text-align: center;
+  width: auto;
+  height: 600px;
+  /*background: #ffffff url(./images/challenger_point.jpg) top left no-repeat;*/
+}
+
+.bangers  {
+  font-family: "Bangers", Arial, sans-serif;
+}
+
+.monoton  {
+  font-family: "Monoton", Arial, sans-serif;
+}
+
+.wallpoet  {
+  font-family: "Wallpoet", Arial, sans-serif;
+}
+
+.green  {
+  color: green;
+}
