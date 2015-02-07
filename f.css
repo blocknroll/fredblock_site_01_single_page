@@ -25,6 +25,42 @@ body  {
 }
 
 #challenger_point {
+  background-color: red;
+  color: gray;
+  font-family: "Cabin Sketch", Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  line-height: 1.5em;
+  margin: 0 0 100px 0;
+  padding: 0px 0 70px 0;
+  text-align: center;
+  width: auto;
+  height: 100px;
+  /*background: #ffffff url(./images/challenger_point.jpg) top left no-repeat;*/
+}
+
+#student {
+  background-color: #05c2d1;
+  color: white;
+  font-family: "Lato", Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+#flying {
+  color: gray;
+  font-family: "Cabin Sketch", Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  line-height: 1.5em;
+  margin: 40px 0 40px 0;
+  padding: 0px 0 70px 0;
+  text-align: center;
+  width: auto;
+  height: 600px;
+}
+
+#extra {
   color: gray;
   font-family: "Cabin Sketch", Arial, sans-serif;
   font-size: 1.5em;
@@ -34,8 +70,11 @@ body  {
   text-align: center;
   width: auto;
   height: 600px;
-  /*background: #ffffff url(./images/challenger_point.jpg) top left no-repeat;*/
 }
+
+
+
+
 
 .bangers  {
   font-family: "Bangers", Arial, sans-serif;
